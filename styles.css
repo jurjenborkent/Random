@@ -1,0 +1,37 @@
+
+.container-fluid {
+text-align:center;
+}
+
+.container-fluid .row {
+  padding-left: 4% !important;
+}
+
+.normal {
+  background-color: green !important;
+    color:white;
+}
+
+.flipped {
+  background-color: red;
+    color:white;
+}
+
+.row .col-sm-2 {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  height: 300px;
+  width: 200px;
+  text-align: center;
+  transition-duration: 1.5s !important;
+}
+
+body p {
+  color: white !important;
+}
+
+.vragen {
+  margin-top:20px;
+  text-align: center;
+}
